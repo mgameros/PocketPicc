@@ -1,5 +1,5 @@
 # Pocket Piccolo
-DSP SP2020 Project, creating a working digital piccolo
+Digital Signal Processing SP2020 Project, creating a working digital piccolo using MatLab
 
 ## Introduction
 The purpose of this project was to create a digital piccolo that will allow me to play my instrument without the risk of damaging my or anyone else’s ears. I wanted the piccolo to be able to play the full range of a piccolo, which is from D6 to C8, or almost 3 octaves.
